@@ -5,12 +5,7 @@
   "keywords": ["qr", "qrcode", "angular"],
   "authors": ["Jan Antala <hello@janantala.com>"],
   "license": "MIT",
-  "homepage": "https://github.com/janantala/angular-qr",
   "main": "./src/angular-qr.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/janantala/angular-qr.git"
-  },
   "ignore": [
     "**/.*",
     "node_modules",
